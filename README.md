@@ -11,10 +11,11 @@ Installer package is made with Advanced installer.
 
 ## Credits
 
-@HeosSacer
+Vacant
 * Main Developer
 
 @Quibus
+@HeosSacer
 * Former Main Developer
 
 @SvlatCjelli
