@@ -14,6 +14,7 @@ Installer package is made with Advanced installer.
 Vacant
 * Main Developer
 
+@harry1453
 @Quibus
 @HeosSacer
 * Former Main Developer

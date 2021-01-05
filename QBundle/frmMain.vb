@@ -1208,7 +1208,7 @@ Public Class frmMain
 
     Private Sub RedditBurstcoinToolStripMenuItem_Click(sender As Object, e As EventArgs) _
         Handles RedditBurstcoinToolStripMenuItem.Click
-        Process.Start("https://www.reddit.com/r/burstcoin/")
+        Process.Start("https://www.reddit.com/r/burst/")
     End Sub
 
     Private Sub BurstWikiToolStripMenuItem_Click(sender As Object, e As EventArgs) _

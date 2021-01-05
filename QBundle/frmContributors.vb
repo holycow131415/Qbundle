@@ -17,6 +17,10 @@
     End Sub
 
     Private Sub LinkLabel2_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles LinkLabel2.LinkClicked
-        Process.Start("https://burstappsteam.org/")
+        Process.Start("https://github.com/burst-apps-team")
+    End Sub
+
+    Private Sub frmContributors_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
     End Sub
 End Class

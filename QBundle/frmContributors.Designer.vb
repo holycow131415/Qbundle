@@ -187,12 +187,12 @@ Partial Class frmContributors
         '
         Me.LinkLabel2.AutoSize = True
         Me.LinkLabel2.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.LinkLabel2.Location = New System.Drawing.Point(456, 68)
+        Me.LinkLabel2.Location = New System.Drawing.Point(411, 72)
         Me.LinkLabel2.Name = "LinkLabel2"
-        Me.LinkLabel2.Size = New System.Drawing.Size(130, 13)
+        Me.LinkLabel2.Size = New System.Drawing.Size(175, 13)
         Me.LinkLabel2.TabIndex = 3
         Me.LinkLabel2.TabStop = True
-        Me.LinkLabel2.Text = "https://burstappsteam.org"
+        Me.LinkLabel2.Text = "https://github.com/burst-apps-team"
         '
         'Label3
         '

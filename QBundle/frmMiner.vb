@@ -600,4 +600,8 @@ Public Class frmMiner
             Next
         End If
     End Sub
+
+    Private Sub txtUpdateServer_TextChanged(sender As Object, e As EventArgs) Handles txtUpdateServer.TextChanged
+
+    End Sub
 End Class
